@@ -69,7 +69,7 @@ java -jar target/lottery-1.0-SNAPSHOT.jar
 
 Переменные окружения (опционально): `SERVER_PORT`, `DB_HOST`, `DB_PORT`, `DB_NAME`, `DB_USER`, `DB_PASSWORD`.
 
-### Docker Compose (all-in-one)
+### Docker Compose
 
 PostgreSQL + API + React UI в одной команде:
 
